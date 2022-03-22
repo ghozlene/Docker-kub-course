@@ -13,4 +13,10 @@ then just go to the browser and localhost:3000 and it will open
 
 the beginning is the same 
 
+when we change something in our code it does't reflect on the image cz the image is just read only that's why we need to rebuild it everytime we change the code
+
+docker when he recognaize the file changes he rebuild all the file after that change that means he rebuild node modules too that why it takes more time to generate
+
+new image 
+
 
